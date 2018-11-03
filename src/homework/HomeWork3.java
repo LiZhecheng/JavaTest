@@ -3,7 +3,7 @@ package homework;
 import java.util.Scanner;
 
 public class HomeWork3 {
-
+ //Test
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int[] side = new int[3];
